@@ -1,4 +1,4 @@
-# Curso Programación Funcional en Scala
+# ![](https://pbs.twimg.com/profile_images/378800000038669863/ac77fa0aa9fd58b492e813b88e37b932_normal.png) Curso Prog Funcional en Scala
 
 Un curso rápido y práctico de Scala de 5 días para programadores con experiencia en otros lenguajes y una excusas para tomarnos unas copas entre amigos
 
