@@ -2,7 +2,7 @@
 
 Un curso rápido y práctico de Scala de 5 días para programadores con experiencia en otros lenguajes y una excusas para tomarnos unas copas entre amigos. Fechas tentativas
 
-## Dia 1  - Conceptos Basicos (Martes 13 de Mayo)
+## Día 1  - Conceptos Basicos (Martes 13 de Mayo)
 
 Breve introducción a la programación funcionalen general y a Scala en particular y como las tecnicas de programación funcional pueden ayudarte a ser más productivo como programador. Herramientas que se suelen utilizar y nuestro primer programa en Scala.
 
@@ -28,7 +28,7 @@ Haz que tus aplicaciones no bloqueen y se ejecuten en paralelo sacandole el maxi
 * Futuros y Promesas *(1h Teoría y Práctica)*
 * Actores *(1h Teoría y Práctica)*
 
-## Dia 4 - Introducción a Técnicas Funcionales Avanzadas (Martes 24 de Junio)
+## Día 4 - Introducción a Técnicas Funcionales Avanzadas (Martes 24 de Junio)
 
 Una pequeña introducción a un mundo que hay por aprender si aun no sabes programación funcional
 
