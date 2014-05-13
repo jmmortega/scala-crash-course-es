@@ -1,6 +1,7 @@
 # ![](https://pbs.twimg.com/profile_images/378800000038669863/ac77fa0aa9fd58b492e813b88e37b932_normal.png) Curso Prog Funcional en Scala
 
-Un curso rápido y práctico de Scala de 5 días para programadores con experiencia en otros lenguajes y una excusas para tomarnos unas copas entre amigos. Fechas tentativas
+Un curso rápido y práctico de Scala de 5 días para programadores con experiencia en otros lenguajes y una excusas para tomarnos unas copas entre amigos.
+Basado en los populares Koans http://www.scalakoans.org/ pero resumidos y modificados para el contenido del curso
 
 ## Día 1  - Conceptos Basicos (Martes 13 de Mayo)
 
@@ -9,7 +10,11 @@ Breve introducción a la programación funcionalen general y a Scala en particul
 * Introducción *(20m Teoría)*
 * Herramientas *(20m Práctica)*
 * Sintaxis Basica *(30m Teoría)*
-* Hello World  *(10 min Práctica)*
+    - ```val``` vs ```var```
+    - Clases
+    - Funciones y Métodos
+    - Parametros
+* Hello World  *(1h Práctica)*
 
 ## Día 2 - Esenciales de la programación diaría (Martes 27 de Mayo)
 
